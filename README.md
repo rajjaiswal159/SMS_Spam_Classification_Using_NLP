@@ -14,7 +14,7 @@ This project demonstrates how to build a robust machine learning pipeline for cl
 
   ○ is_spam: Binary label (1 = spam, 0 = ham)
 
-  ● text: Cleaned message content
+  ○ text: Cleaned message content
 
 # 📊 Exploratory Data Analysis (EDA)
 ● Distribution of spam vs. ham messages
