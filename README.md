@@ -86,6 +86,9 @@ Multiple classifiers were trained and compared:
 
 ● Optuna (for tuning)
 
+# 📁 Project Structure
+<pre><code>📦 sms-spam-detection ├── 📂 data │ ├── spam.csv │ └── slang_words.csv ├── 📂 notebooks │ └── sms-spam-detection.ipynb ├── requirements.txt └── README.md </code></pre>
+
 # 🚀 How to Run
 1. Clone the repository:
 
