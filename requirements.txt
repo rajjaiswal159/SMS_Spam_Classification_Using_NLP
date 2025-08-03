@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+contractions
+spacy
+scikit-learn
+optuna
+python -m spacy download en_core_web_sm
