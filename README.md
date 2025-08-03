@@ -26,7 +26,7 @@ This project demonstrates how to build a robust machine learning pipeline for cl
 ● Correlation heatmap between message length and spam label
 
 # 🔄 Text Preprocessing
-● Text cleaning steps include:
+Text cleaning steps include:
 
 ● Lowercasing
 
@@ -64,7 +64,7 @@ Multiple classifiers were trained and compared:
 
 ● Support Vector Machine (SVM)
 
-#📈 Model Evaluation
+# 📈 Model Evaluation
 ● F1 Score
 
 ● Classification Report
