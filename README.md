@@ -87,7 +87,12 @@ Multiple classifiers were trained and compared:
 ● Optuna (for tuning)
 
 # 📁 Project Structure
-<pre><code>📦 sms-spam-detection ├── 📂 data │ ├── spam.csv │ └── slang_words.csv ├── 📂 notebooks │ └── sms-spam-detection.ipynb ├── requirements.txt └── README.md </code></pre>
+├── spam.csv            # Main dataset with SMS messages and labels
+├── slang_words.csv     # Custom dictionary of slang word mappings
+├── sms-spam-detection.ipynb              # Jupyter notebooks for exploration and modeling 
+├── requirements.txt        # Dependencies for running the project
+└── README.md               # Project overview and setup instructions
+
 
 # 🚀 How to Run
 1. Clone the repository:
