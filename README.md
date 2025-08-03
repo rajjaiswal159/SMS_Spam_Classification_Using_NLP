@@ -1,4 +1,4 @@
-# 📧 Email (SMS) Spam Classifier using NLP
+# SMS Spam Classifier using NLP
 This project demonstrates how to build a robust machine learning pipeline for classifying messages as Spam or Ham (Not Spam) using Natural Language Processing (NLP) techniques and various machine learning models. It includes exploratory data analysis, preprocessing, feature engineering, model training, and evaluation.
 
 # 📁 Dataset
