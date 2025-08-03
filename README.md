@@ -6,13 +6,13 @@ This project demonstrates how to build a robust machine learning pipeline for cl
 
 ● Columns Used:
 
-  ● v1: Label (spam or ham)
+  ○ v1: Label (spam or ham)
 
-  ● v2: Message text
+  ○ v2: Message text
 
 ● Processed to:
 
-  ● is_spam: Binary label (1 = spam, 0 = ham)
+  ○ is_spam: Binary label (1 = spam, 0 = ham)
 
   ● text: Cleaned message content
 
